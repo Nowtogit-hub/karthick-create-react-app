@@ -7,6 +7,7 @@ function App() {
         hi ponvel
        hi sathikani
          hi mahi
+           <TodoApp></TodoApp>
     </div>
   );
 }
